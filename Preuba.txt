@@ -4,3 +4,5 @@ Fue modificado por un usuario
 Esto es una linea para los errores en commit.
 
 Otra linea para los errores en el commit.
+
+Cambios simultaneos
