@@ -1,2 +1,4 @@
 Esta línea es solo para ver que se ha modificado el archivo
 Fue modificado por un usuario
+
+Esto es una linea para los errores en commit.
